@@ -1,0 +1,5 @@
+x=msgbox("..." ,32, "fourthwall")
+x=msgbox("wait..." ,48, "fourthwall")
+x=msgbox("something is not right here..." ,16, "fourthwall")
+x=msgbox("this is not the right way." ,16, "fourthwall")
+x=msgbox("let's go back..." ,64, "fourthwall")

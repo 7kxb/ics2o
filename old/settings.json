@@ -1,0 +1,13 @@
+{
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingImports": "none",
+        "reportUndefinedVariable": "none"
+    },
+    "workbench.colorTheme": "Monokai",
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "tabnine.experimentalAutoImports": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "json.schemas": [
+        
+    ]
+}
